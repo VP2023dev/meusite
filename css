@@ -1,0 +1,17 @@
+.meu-botao {
+    background-color: #4CAF50; /* Cor de fundo do botão */
+    border: none; /* Remove a borda */
+    color: white; /* Cor do texto */
+    padding: 15px 32px; /* Espaçamento interno do botão */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Remove sublinhado do texto */
+    display: inline-block; /* Exibir como elemento de bloco */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 4px 2px; /* Margem externa */
+    cursor: pointer; /* Cursor ao passar por cima */
+    border-radius: 10px; /* Borda arredondada */
+}
+
+.meu-botao:hover {
+    background-color: #45a049; /* Altera a cor de fundo ao passar o mouse */
+}
