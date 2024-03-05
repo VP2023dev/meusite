@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Botão</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Arquivo CSS para estilizar o botão -->
+</head>
+<body>
+
+<a href="https://chat.openai.com/c/7094896b-bdbb-46e2-a754-b5bb9040396c"><button class="meu-botao">Clique Aqui</button></a>
+<button class="inicio">Inicio</button>
+<p><h1>TESTE de site <a href="https://mail.google.com/mail/u/0/#inbox">Clique aqui</a></h1></p>
+</body>
+</html>
